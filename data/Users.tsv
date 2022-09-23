@@ -1,0 +1,10 @@
+# First Name	Middle Initial (optional)	Last Name	Email	Organization	Country	Google Scholar URL	Semantic Scholar URL	DBLP URL	Domain Conflicts
+Tias		Guns	tias.guns@kuleuven.be	KU Leuven	Belgium	https://scholar.google.com/citations?user=hcjme5kAAAAJ	https://www.semanticscholar.org/author/1834512		kuleuven.be;vub.be
+Grigorios		Tsoumakas	greg@csd.auth.gr	Aristotle University of Thessaloniki	Greece	https://scholar.google.com/citations?user=PlGKUhwAAAAJ	https://www.semanticscholar.org/author/2502501	https://dblp.org/pid/38/6253	auth.gr; ibm.com
+Petra		Kralj Novak	Petra.Kralj.Novak@ijs.si	Jožef Stefan Institute	Slovenia				
+Asja		Fischer	asja.fischer@rub.de	Ruhr University Bochum	Germany	https://scholar.google.com/citations?user=FyZbyIUAAAAJ	https://www.semanticscholar.org/author/35988982	https://dblp.org/pid/76/8485	
+Non		Existant	non.existant@cs.kuleuven.be	Dept. Computer Science, KU Leuven	Belgium				cs.kuleuven.be
+Tira		Lala	tira.lala@example.com	Example dot com	United States				example.com
+Oh		My	oh.my@example.com	Example dot com	United States				
+Ana		Nymous	ana.nymous@example.com	Example company	United States				
+Train		Ticket	train.ticket@example.com	Example co	United States				
