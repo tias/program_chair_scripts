@@ -1,0 +1,25 @@
+<bids>
+  <submission submissionId="101">
+    <user email="tias.guns@kuleuven.be" bid="2 - Not Willing" />
+    <user email="non.existant@cs.kuleuven.be" bid="4 - Willing" />
+    <user email="tira.lala@example.com" bid="4 - Willing" />
+    <user email="ana.nymous@example.com" bid="5 - Eager" />
+  </submission>
+  <submission submissionId="103">
+    <user email="tias.guns@kuleuven.be" bid="4 - Willing" />
+    <user email="greg@csd.auth.gr" bid="2 - Not Willing" />
+    <user email="Petra.Kralj.Novak@ijs.si" bid="3 - In A Pinch" />
+    <user email="asja.fischer@rub.de" bid="4 - Willing" />
+    <user email="non.existant@cs.kuleuven.be" bid="4 - Willing" />
+    <user email="tira.lala@example.com" bid="2 - Not Willing" />
+    <user email="train.ticket@example.com" bid="2 - Not Willing" />
+  </submission>
+  <submission submissionId="104">
+    <user email="tias.guns@kuleuven.be" bid="4 - Willing" />
+    <user email="greg@csd.auth.gr" bid="4 - Willing" />
+    <user email="Petra.Kralj.Novak@ijs.si" bid="2 - Not Willing" />
+    <user email="asja.fischer@rub.de" bid="3 - In A Pinch" />
+    <user email="non.existant@cs.kuleuven.be" bid="4 - Willing" />
+    <user email="train.ticket@cs.kuleuven.be" bid="4 - Willing" />
+  </submission>
+</bids>
