@@ -9,9 +9,9 @@ For now, it only contains the PDF analysis script, already very valuable to save
 
 Overview of tools:
 
-   * 01_analyze_pdfs: analyse PDFs for length, margins and emails (anonymity). It is recommended to run this 24 hours before the final submission deadline! Will save you many desk rejects...
-   * 02_analyze_conflicts: ... TODO clean and release
-   * 03a_analyze_bidding: ... TODO clean and release
+   * 01_analyze_pdfs: analyze PDFs for length, margins and emails (anonymity). It is recommended to run this 24 hours before the final submission deadline! Will save you many desk rejects...
+   * 02_analyze_conflicts: analyzes the declared conflicts and checks for outliers
+   * 03a_analyze_bidding: analyzes the number of bids per reviewer and shows statistics
    * 03b_clean_bids: ... TODO clean and release
    * 04_assignment_helper: ... TODO clean and release
    * 05_analyze_reviews: ... TODO clean and release
