@@ -1,0 +1,17 @@
+<assignments>
+  <submission submissionId="101">
+    <user email="ana.nymous@example.com" />
+    <user email="non.existant@cs.kuleuven.be" />
+    <user email="asja.fischer@rub.de" />
+  </submission>
+  <submission submissionId="103">
+    <user email="tias.guns@kuleuven.be" />
+    <user email="Petra.Kralj.Novak@ijs.si" />
+    <user email="asja.fischer@rub.de" />
+  </submission>
+  <submission submissionId="104">
+    <user email="tias.guns@kuleuven.be" />
+    <user email="train.ticket@cs.kuleuven.be" />
+    <user email="asja.fischer@rub.de" />
+  </submission>
+</assignments>

@@ -13,7 +13,7 @@ Overview of tools:
    * 02_analyze_conflicts: analyzes the declared conflicts and checks for outliers
    * 03a_analyze_bidding: analyzes the number of bids per reviewer and shows statistics
    * 03b_clean_bids: ... TODO clean and release
-   * 04_assignment_helper: ... TODO clean and release
+   * 04_assignment_helper: ... visualizes quality properties of an assignment
    * 05_analyze_reviews: ... TODO clean and release
 
 How to contribute
